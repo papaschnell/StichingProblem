@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotChocolateService", "HotChocolateService\HotChocolateService.csproj", "{9B3C6AB6-8971-4A6D-92BD-6DDE3F33D573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotChocolateClient", "HotChocolateClient\HotChocolateClient.csproj", "{0B21B5D8-2E56-4624-99BD-3917DE75B94A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotChocolateStiching", "HotChocolateStiching\HotChocolateStiching.csproj", "{7A36C01E-123A-4964-BB8C-F27763D0FD71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B3C6AB6-8971-4A6D-92BD-6DDE3F33D573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3C6AB6-8971-4A6D-92BD-6DDE3F33D573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3C6AB6-8971-4A6D-92BD-6DDE3F33D573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3C6AB6-8971-4A6D-92BD-6DDE3F33D573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B21B5D8-2E56-4624-99BD-3917DE75B94A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B21B5D8-2E56-4624-99BD-3917DE75B94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B21B5D8-2E56-4624-99BD-3917DE75B94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B21B5D8-2E56-4624-99BD-3917DE75B94A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A36C01E-123A-4964-BB8C-F27763D0FD71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A36C01E-123A-4964-BB8C-F27763D0FD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A36C01E-123A-4964-BB8C-F27763D0FD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A36C01E-123A-4964-BB8C-F27763D0FD71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
